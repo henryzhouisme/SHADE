@@ -10,7 +10,7 @@
 ~~The **INPUT** might include:~~
 ~~- Coordinates of each single Point on the surface of the object.~~
 ~~- Coordinate(s) of the Light source.~~
-~~The **OUTPUT** might include:
+~~The **OUTPUT** might include:~~
 ~~-The light strength of each point on the condition of the light source.~~
 
 ~~The **Functions**:~~
