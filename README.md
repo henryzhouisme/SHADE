@@ -5,15 +5,15 @@
 
 **Lack of Knowledge, Work of OpenGL Could NOT be Done by Python**
 
-This program is aimed to analyze the shadow in the surface among the object.
+~~This program is aimed to analyze the shadow in the surface among the object.
 
-The **INPUT** might include:
+~~The **INPUT** might include:
 - Coordinates of each single Point on the surface of the object.
 - Coordinate(s) of the Light source.
 The **OUTPUT** might include:
 - The light strength of each point on the condition of the light source.
 
- The **Functions**:
+~~The **Functions**:
 - calVerticalVetor(pa, pb, pc):
 To calculate the vertical vector at the Plane PaPbPc, we solve a linear functions.
 - isIntersect(plight, pobject, paobstacle, pbobstacle, pcobstacle) :
